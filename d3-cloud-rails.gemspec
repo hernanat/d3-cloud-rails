@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["roguegdi27@gmail.com"]
   s.homepage    = "https://www.github.com/hernanat/d3-cloud-rails"
   s.summary     = "A Rails plugin for creating wordclouds using D3.js."
-  s.description = "Makes available a wordloud script using D3.js to the asset pipeline."
+  s.description = "Makes a wordle-like wordcloud script using D3.js available to the asset pipeline."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
