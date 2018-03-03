@@ -1,4 +1,7 @@
 # D3::Cloud::Rails
+
+[![Gem Version](https://badge.fury.io/rb/d3-cloud-rails.svg)](https://badge.fury.io/rb/d3-cloud-rails)
+
 This is a Rails plugin for generating wordle-like word clouds using D3.js. The work is based almost entirely on that done by jasondavies.
 You can find the original javascript project along with the API [here](https://github.com/jasondavies/d3-cloud).
 
